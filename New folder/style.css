@@ -1,0 +1,211 @@
+body {
+    background-color: black;
+  }
+  
+  div {
+    color: white;
+  }
+  
+  ul {
+    font-size: 200%;
+    list-style-type: none;
+    padding-top: 60px;
+  }
+  
+  #babyari {
+    float: left;
+    background-image: url("454617661_8390687240975884_7069818800867470398_n.jpg")
+
+    border-radius: 100%;
+  }
+  
+  h1 {
+    color: #ff4da6;
+    vertical-align: top;
+    padding-top: 50px;
+    font-size: 400%;
+    text-align: center;
+  }
+  
+
+  
+  .row {
+    width: 100%;
+    padding-top: 50px;
+    clear: both;
+  }
+  
+  .col {
+    float: left;
+    width: 33.33333333%;
+    text-align: center;
+  }
+  
+  #p1 {
+    padding-bottom: 350px;
+  }
+  
+  #p2 {
+    padding-bottom: 360px;
+  }
+  
+  #p3 {
+    padding-bottom: 250px;
+  }
+  
+  #p4 {
+    padding-bottom: 300px;
+  }
+  
+  #p5 {
+    padding-bottom: 300px;
+  }
+  
+  #p6 {
+    padding-bottom: 300px;
+  }
+  
+  #p7 {
+    padding-bottom: 400px;
+  }
+  
+  #halloween {
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("received_1215208005779836.jpeg");
+  }
+  
+  #us1 {
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("received_642374801433216.jpeg");
+  }
+  
+  #us2 {
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("received_1333978027515526.jpeg");
+  }
+  
+  #birthday {
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20240124_161110.jpg");
+  }
+  
+  #goofybrett {
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20231115_144455.jpg");
+  }
+  
+  #goofyari {
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20231115_144640.jpg");
+  }
+  
+  
+  #fierceari {
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("received_1073447493819476.jpeg");
+  }
+  
+  #tanks {
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20240124_161104.jpg");
+  }
+  
+  #run {
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20240124_161049.jpg");
+  }
+  
+  #dog {
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("455186406_870252797894982_2396605788081488320_n.jpg");
+  }
+
+ #teacher {
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("454617661_8390687240975884_7069818800867470398_n.jpg");
+  }
+  
+  #tattoo {
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20231115_142535.jpg");
+  }
+
+#best {
+    float: right;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20231113_102711.jpg");
+  }
+  
+  #renee {
+    float: left;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("IMG_20231113_102744.jpg");
+  }
